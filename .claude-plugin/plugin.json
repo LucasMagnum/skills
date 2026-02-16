@@ -1,21 +1,4 @@
 {
-  "name": "lucasmagnum",
-  "owner": {
-    "name": "Lucas Magnum"
-  },
-  "metadata": {
-    "description": "Collection of skills created/selected by Lucas Magnum",
-    "version": "1.0.0"
-  },
-  "plugins": [
-    {
-      "name": "keep-it-simple",
-      "description": "Keep it simple skills",
-      "source": "./",
-      "strict": false,
-      "skills": [
-        "./skills/keep-it-simple"
-      ]
-    }
-  ]
+  "name": "keep-it-simple",
+  "description": "Keep it simple skills ruthlessly kills complexity."
 }

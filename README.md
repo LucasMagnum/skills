@@ -8,6 +8,14 @@ A collection of skills created/selected by Lucas Magnum.
 npx skills add lucasmagnum/skills
 ```
 
+Install in Claude Code
+
+```bash
+/plugin marketplace add lucasmagnum/skills
+/plugin install keep-it-simple@lucasmagnum
+```
+
+
 Or install from the Claude marketplace plugins.
 
 ## What's Included

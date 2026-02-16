@@ -14,7 +14,7 @@ Or install from the Claude marketplace plugins.
 
 | Component | Path | Description |
 |-----------|------|-------------|
-| Skill | `skills/example-skill/SKILL.md` | Auto-triggered example skill |
+| Skill | `skills/keep-it-simple/SKILL.md` | Auto-triggered keep it simple skill |
 
 ## Project Structure
 
@@ -23,7 +23,7 @@ skills/
 ├── .claude-plugin/
 │   └── plugin.json        # Plugin manifest (required)
 ├── skills/                 # Skills (auto-discovered SKILL.md in subdirs)
-│   └── example-skill/
+│   └── keep-it-simple/
 │       └── SKILL.md
 ├── LICENSE
 └── README.md

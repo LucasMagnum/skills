@@ -1,5 +1,5 @@
 {
-  "name": "lucasmagnum-skills",
+  "name": "lucasmagnum",
   "owner": {
     "name": "Lucas Magnum"
   },
@@ -11,11 +11,7 @@
     {
       "name": "keep-it-simple",
       "description": "Keep it simple skills",
-      "source": "./",
-      "strict": false,
-      "skills": [
-        "./skills/keep-it-simple"
-      ]
+      "source": "./"
     }
   ]
 }
